@@ -1,6 +1,5 @@
 # 📝 Publications 
-
-
+- ``TNNLS 2025`` [On Imbalance in Case Types: Evaluating and Enhancing PLMs for Criminal Court View Generation](xxx), **Yuquan Le**, Zheng Xiao, Yan Ding, Eng Siong Chng, Kenli Li. [![](https://img.shields.io/badge/GitHub-white?style=flat&logo=github&logoColor=black&color=white)](https://yuquanle.github.io/Case-type-oriented-metrics-homepage/)
 - ``ICLR 2025`` [Neural Causal Graph for Interpretable and Intervenable Classification](https://openreview.net/forum?id=nmvmPIi185), Jiawei Wang, Shaofei Lu, Da Cao, Dongyu Wang, **Yuquan Le**, Zhe Quan, Tat-Seng Chua. [![](https://img.shields.io/badge/GitHub-white?style=flat&logo=github&logoColor=black&color=white)](https://github.com/JaveyWang/NCG)
 - ``COLING 2025`` [TermDiffuSum: A Term-guided Diffusion Model for Extractive Summarization of Legal Documents](https://aclanthology.org/2025.coling-main.216.pdf), Xiangyun Dong, Wei Li, **Yuquan Le**, Zhangyue Jiang, Junxi Zhong and Zhong Wang. [![](https://img.shields.io/badge/GitHub-white?style=flat&logo=github&logoColor=black&color=white)](https://github.com/huaand/TermDiffuSum-)
 - ``ESWA 2025`` [Spatial–temporal video grounding with cross-modal understanding and enhancement](https://www.sciencedirect.com/science/article/pii/S0957417425002726), Shu Luo, Jingyu Pan, Da Cao, Jiawei Wang, **Yuquan Le**, Meng Liu.
