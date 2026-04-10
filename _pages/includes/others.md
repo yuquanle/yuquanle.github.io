@@ -15,6 +15,7 @@
 
 # 📚 Academic Services
 Conference/ Journal Reviewers
+- IEEE Transactions on Neural Networks and Learning Systems 
 - IEEE/ACM Transactions on Audio, Speech, and Language Processing
 - Expert Systems with Applications
 - Artificial Intelligence Review
